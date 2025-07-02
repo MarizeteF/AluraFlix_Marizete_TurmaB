@@ -12,8 +12,8 @@ body{
         font-size: 20px;
         font-family: cursive;
     }
-    section
-    background: rgd(184, 156, 213);
+    section {
+    background: rgd (184, 156, 213);
     padding-bottom: 80px;
     padding-top: 80px;
-    
+    }
